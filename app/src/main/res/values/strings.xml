@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LL Calculator</string>
+    <string name="title_section1">Practice</string>
+    <string name="title_section2">Event</string>
+    <string name="title_section3">Section 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="reset">Reset</string>
+    <string name="calculate">Calculate</string>
+    <string name="rank_label">Rank</string>
+    <string name="curr_exp_label">Current Exp</string>
+    <string name="incorrect_rank">Incorrect rank!</string>
+    <string name="incorrect_rank_exp">Incorrect exp!</string>
+
+    // Practice Fragment
+    <string name="practice_rarity_label">Rarity</string>
+    <string name="practice_idolize_label">Idolize Status</string>
+    <string name="practice_level_label">Current Level</string>
+    <string name="practice_exp_label">Exp to Next Level</string>
+    <string name="practice_result_label">Exp Needed</string>
+    <string name="practice_incorrect_level">Incorrect level!</string>
+    <string name="practice_incorrect_exp">Incorrect exp!</string>
+    <string name="rarity_N">N</string>
+    <string name="rarity_R">R</string>
+    <string name="rarity_SR">SR</string>
+    <string name="rarity_UR">UR</string>
+    <string name="idolized_true">Idolized</string>
+    <string name="idolized_false">Not Idolized</string>
+
+    // Event Fragment
+    <string name="event_type_label">Event Type</string>
+    <string name="event_pts_label">Event Pts</string>
+    <string name="event_macaron_label">Event Macarons</string>
+    <string name="event_result1_label">No. of Plays Needed</string>
+    <string name="event_result2_label">LP Needed</string>
+    <string name="event_incorrect_pts">Incorrect event pts!</string>
+    <string name="event_incorrect_macaron">Incorrect event macarons!</string>
+    <string name="macaron">Macaron</string>
+    <string name="score_match">Score Match</string>
+
+</resources>
